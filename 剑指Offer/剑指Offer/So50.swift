@@ -5,8 +5,8 @@
 //  Created by zhangyangyang on 2022/9/2.
 //
 
-// 哈希算法
 // 剑指 Offer 50. 第一个只出现一次的字符
+// 哈希算法
 class So50 {
     func firstUniqChar(_ s: String) -> Character {
         if s.count == 0 {

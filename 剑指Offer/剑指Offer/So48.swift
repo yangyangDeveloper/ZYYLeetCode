@@ -7,7 +7,6 @@
 
 // 剑指 Offer 48. 最长不含重复字符的子字符串
 class So48 {
-    
     func lengthOfLongestSubstring(_ s: String) -> Int {
         var dic = [Character: Int]()
         var res = 0

@@ -28,6 +28,8 @@
 		A43A119728C89BE70011A530 /* So18.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43A118828C89BE70011A530 /* So18.swift */; };
 		A43A119828C89BE70011A530 /* So6.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43A118928C89BE70011A530 /* So6.swift */; };
 		A43A119928C89BE70011A530 /* So22.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43A118A28C89BE70011A530 /* So22.swift */; };
+		A43A119B28C8A32E0011A530 /* So42.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43A119A28C8A32E0011A530 /* So42.swift */; };
+		A43A119D28C8A58B0011A530 /* So57.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43A119C28C8A58B0011A530 /* So57.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -54,6 +56,8 @@
 		A43A118828C89BE70011A530 /* So18.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = So18.swift; sourceTree = "<group>"; };
 		A43A118928C89BE70011A530 /* So6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = So6.swift; sourceTree = "<group>"; };
 		A43A118A28C89BE70011A530 /* So22.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = So22.swift; sourceTree = "<group>"; };
+		A43A119A28C8A32E0011A530 /* So42.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So42.swift; sourceTree = "<group>"; };
+		A43A119C28C8A58B0011A530 /* So57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So57.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,8 +102,10 @@
 				A43A118728C89BE70011A530 /* So26.swift */,
 				A43A118528C89BE70011A530 /* So27.swift */,
 				A43A117F28C89BE70011A530 /* So32.swift */,
+				A43A119A28C8A32E0011A530 /* So42.swift */,
 				A43A117C28C89BE70011A530 /* So48.swift */,
 				A43A118628C89BE70011A530 /* So50.swift */,
+				A43A119C28C8A58B0011A530 /* So57.swift */,
 				A43A117D28C89BE70011A530 /* So61.swift */,
 				A43A116828C89BD20011A530 /* AppDelegate.swift */,
 				A43A116A28C89BD20011A530 /* SceneDelegate.swift */,
@@ -190,7 +196,9 @@
 				A43A119428C89BE70011A530 /* So27.swift in Sources */,
 				A43A118F28C89BE70011A530 /* So3.swift in Sources */,
 				A43A119528C89BE70011A530 /* So50.swift in Sources */,
+				A43A119D28C8A58B0011A530 /* So57.swift in Sources */,
 				A43A116D28C89BD20011A530 /* ViewController.swift in Sources */,
+				A43A119B28C8A32E0011A530 /* So42.swift in Sources */,
 				A43A119028C89BE70011A530 /* So21.swift in Sources */,
 				A43A116928C89BD20011A530 /* AppDelegate.swift in Sources */,
 				A43A119328C89BE70011A530 /* So25.swift in Sources */,
