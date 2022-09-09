@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A437250D28CAD06E00952268 /* So15.swift in Sources */ = {isa = PBXBuildFile; fileRef = A437250C28CAD06E00952268 /* So15.swift */; };
+		A437250F28CAD90A00952268 /* So30.swift in Sources */ = {isa = PBXBuildFile; fileRef = A437250E28CAD90A00952268 /* So30.swift */; };
+		A437251128CAE1FF00952268 /* So31.swift in Sources */ = {isa = PBXBuildFile; fileRef = A437251028CAE1FF00952268 /* So31.swift */; };
+		A437251328CAEB5100952268 /* So64.swift in Sources */ = {isa = PBXBuildFile; fileRef = A437251228CAEB5100952268 /* So64.swift */; };
 		A43A116928C89BD20011A530 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43A116828C89BD20011A530 /* AppDelegate.swift */; };
 		A43A116B28C89BD20011A530 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43A116A28C89BD20011A530 /* SceneDelegate.swift */; };
 		A43A116D28C89BD20011A530 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43A116C28C89BD20011A530 /* ViewController.swift */; };
@@ -30,9 +34,16 @@
 		A43A119928C89BE70011A530 /* So22.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43A118A28C89BE70011A530 /* So22.swift */; };
 		A43A119B28C8A32E0011A530 /* So42.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43A119A28C8A32E0011A530 /* So42.swift */; };
 		A43A119D28C8A58B0011A530 /* So57.swift in Sources */ = {isa = PBXBuildFile; fileRef = A43A119C28C8A58B0011A530 /* So57.swift */; };
+		A44F656B28C9860A00B88E75 /* So46.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44F656A28C9860A00B88E75 /* So46.swift */; };
+		A44F656D28C99F1C00B88E75 /* So58.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44F656C28C99F1C00B88E75 /* So58.swift */; };
+		A466D84628CA035700DD1888 /* So29.swift in Sources */ = {isa = PBXBuildFile; fileRef = A466D84528CA035700DD1888 /* So29.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A437250C28CAD06E00952268 /* So15.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So15.swift; sourceTree = "<group>"; };
+		A437250E28CAD90A00952268 /* So30.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So30.swift; sourceTree = "<group>"; };
+		A437251028CAE1FF00952268 /* So31.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So31.swift; sourceTree = "<group>"; };
+		A437251228CAEB5100952268 /* So64.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So64.swift; sourceTree = "<group>"; };
 		A43A116528C89BD20011A530 /* 剑指Offer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "剑指Offer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A43A116828C89BD20011A530 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A43A116A28C89BD20011A530 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -58,6 +69,9 @@
 		A43A118A28C89BE70011A530 /* So22.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = So22.swift; sourceTree = "<group>"; };
 		A43A119A28C8A32E0011A530 /* So42.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So42.swift; sourceTree = "<group>"; };
 		A43A119C28C8A58B0011A530 /* So57.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So57.swift; sourceTree = "<group>"; };
+		A44F656A28C9860A00B88E75 /* So46.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So46.swift; sourceTree = "<group>"; };
+		A44F656C28C99F1C00B88E75 /* So58.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So58.swift; sourceTree = "<group>"; };
+		A466D84528CA035700DD1888 /* So29.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So29.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +108,7 @@
 				A43A118328C89BE70011A530 /* So5.swift */,
 				A43A118928C89BE70011A530 /* So6.swift */,
 				A43A117E28C89BE70011A530 /* So9.swift */,
+				A437250C28CAD06E00952268 /* So15.swift */,
 				A43A118828C89BE70011A530 /* So18.swift */,
 				A43A118128C89BE70011A530 /* So21.swift */,
 				A43A118A28C89BE70011A530 /* So22.swift */,
@@ -101,12 +116,18 @@
 				A43A118428C89BE70011A530 /* So25.swift */,
 				A43A118728C89BE70011A530 /* So26.swift */,
 				A43A118528C89BE70011A530 /* So27.swift */,
+				A466D84528CA035700DD1888 /* So29.swift */,
+				A437250E28CAD90A00952268 /* So30.swift */,
+				A437251028CAE1FF00952268 /* So31.swift */,
 				A43A117F28C89BE70011A530 /* So32.swift */,
 				A43A119A28C8A32E0011A530 /* So42.swift */,
+				A44F656A28C9860A00B88E75 /* So46.swift */,
 				A43A117C28C89BE70011A530 /* So48.swift */,
 				A43A118628C89BE70011A530 /* So50.swift */,
 				A43A119C28C8A58B0011A530 /* So57.swift */,
+				A44F656C28C99F1C00B88E75 /* So58.swift */,
 				A43A117D28C89BE70011A530 /* So61.swift */,
+				A437251228CAEB5100952268 /* So64.swift */,
 				A43A116828C89BD20011A530 /* AppDelegate.swift */,
 				A43A116A28C89BD20011A530 /* SceneDelegate.swift */,
 				A43A116C28C89BD20011A530 /* ViewController.swift */,
@@ -192,7 +213,10 @@
 				A43A119728C89BE70011A530 /* So18.swift in Sources */,
 				A43A119228C89BE70011A530 /* So5.swift in Sources */,
 				A43A118E28C89BE70011A530 /* So32.swift in Sources */,
+				A437251328CAEB5100952268 /* So64.swift in Sources */,
+				A466D84628CA035700DD1888 /* So29.swift in Sources */,
 				A43A119928C89BE70011A530 /* So22.swift in Sources */,
+				A437251128CAE1FF00952268 /* So31.swift in Sources */,
 				A43A119428C89BE70011A530 /* So27.swift in Sources */,
 				A43A118F28C89BE70011A530 /* So3.swift in Sources */,
 				A43A119528C89BE70011A530 /* So50.swift in Sources */,
@@ -201,13 +225,17 @@
 				A43A119B28C8A32E0011A530 /* So42.swift in Sources */,
 				A43A119028C89BE70011A530 /* So21.swift in Sources */,
 				A43A116928C89BD20011A530 /* AppDelegate.swift in Sources */,
+				A437250D28CAD06E00952268 /* So15.swift in Sources */,
 				A43A119328C89BE70011A530 /* So25.swift in Sources */,
 				A43A118C28C89BE70011A530 /* So61.swift in Sources */,
 				A43A116B28C89BD20011A530 /* SceneDelegate.swift in Sources */,
+				A437250F28CAD90A00952268 /* So30.swift in Sources */,
+				A44F656B28C9860A00B88E75 /* So46.swift in Sources */,
 				A43A119128C89BE70011A530 /* So24.swift in Sources */,
 				A43A119828C89BE70011A530 /* So6.swift in Sources */,
 				A43A119628C89BE70011A530 /* So26.swift in Sources */,
 				A43A118B28C89BE70011A530 /* So48.swift in Sources */,
+				A44F656D28C99F1C00B88E75 /* So58.swift in Sources */,
 				A43A118D28C89BE70011A530 /* So9.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
