@@ -54,9 +54,31 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         
         //test58()
-        test15()
+        //test15()
+        //test68()
+        //test38()
+        
+//        var someProtocol = [
+//            "one" : 1,
+//            "two" : 2
+//        ]
+//        for (e, value) in someProtocol {
+//           print("e==\(e)")
+//           print("value=\(value)")
+//
+//        }
+        
+       // print(someProtocol.keys)
+        
+        test56()
+        
     }
 
+    func test56() {
+        let nums = [3,4,4,5]
+        let t = So56().singleNumbers(nums)
+        
+    }
     
     func test58() {
       
@@ -69,6 +91,18 @@ class ViewController: UIViewController {
     func test15() {
         let n = 11
         let t  = So15().hammingWeight(n)
+        
+    }
+    
+    func test68() {
+        let n = [1,2,3,4,5]
+        let t = So66().constructArr(n)
+        
+    }
+    
+    func test38() {
+        let s = "abb"
+        let arr = So38().permutation(s)
         
     }
 

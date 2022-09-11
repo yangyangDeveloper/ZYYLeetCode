@@ -37,6 +37,10 @@
 		A44F656B28C9860A00B88E75 /* So46.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44F656A28C9860A00B88E75 /* So46.swift */; };
 		A44F656D28C99F1C00B88E75 /* So58.swift in Sources */ = {isa = PBXBuildFile; fileRef = A44F656C28C99F1C00B88E75 /* So58.swift */; };
 		A466D84628CA035700DD1888 /* So29.swift in Sources */ = {isa = PBXBuildFile; fileRef = A466D84528CA035700DD1888 /* So29.swift */; };
+		A4DD705E28CE1EB400AD4369 /* So35.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4DD705D28CE1EB400AD4369 /* So35.swift */; };
+		A4DD706028CE2AD300AD4369 /* So56.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4DD705F28CE2AD300AD4369 /* So56.swift */; };
+		A4F7F83428CC891600A7CE2A /* So66.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F7F83328CC891600A7CE2A /* So66.swift */; };
+		A4F7F83628CCD64F00A7CE2A /* So38.swift in Sources */ = {isa = PBXBuildFile; fileRef = A4F7F83528CCD64F00A7CE2A /* So38.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -72,6 +76,10 @@
 		A44F656A28C9860A00B88E75 /* So46.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So46.swift; sourceTree = "<group>"; };
 		A44F656C28C99F1C00B88E75 /* So58.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So58.swift; sourceTree = "<group>"; };
 		A466D84528CA035700DD1888 /* So29.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So29.swift; sourceTree = "<group>"; };
+		A4DD705D28CE1EB400AD4369 /* So35.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So35.swift; sourceTree = "<group>"; };
+		A4DD705F28CE2AD300AD4369 /* So56.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So56.swift; sourceTree = "<group>"; };
+		A4F7F83328CC891600A7CE2A /* So66.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So66.swift; sourceTree = "<group>"; };
+		A4F7F83528CCD64F00A7CE2A /* So38.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = So38.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,14 +128,18 @@
 				A437250E28CAD90A00952268 /* So30.swift */,
 				A437251028CAE1FF00952268 /* So31.swift */,
 				A43A117F28C89BE70011A530 /* So32.swift */,
+				A4DD705D28CE1EB400AD4369 /* So35.swift */,
+				A4F7F83528CCD64F00A7CE2A /* So38.swift */,
 				A43A119A28C8A32E0011A530 /* So42.swift */,
 				A44F656A28C9860A00B88E75 /* So46.swift */,
 				A43A117C28C89BE70011A530 /* So48.swift */,
 				A43A118628C89BE70011A530 /* So50.swift */,
+				A4DD705F28CE2AD300AD4369 /* So56.swift */,
 				A43A119C28C8A58B0011A530 /* So57.swift */,
 				A44F656C28C99F1C00B88E75 /* So58.swift */,
 				A43A117D28C89BE70011A530 /* So61.swift */,
 				A437251228CAEB5100952268 /* So64.swift */,
+				A4F7F83328CC891600A7CE2A /* So66.swift */,
 				A43A116828C89BD20011A530 /* AppDelegate.swift */,
 				A43A116A28C89BD20011A530 /* SceneDelegate.swift */,
 				A43A116C28C89BD20011A530 /* ViewController.swift */,
@@ -230,13 +242,17 @@
 				A43A118C28C89BE70011A530 /* So61.swift in Sources */,
 				A43A116B28C89BD20011A530 /* SceneDelegate.swift in Sources */,
 				A437250F28CAD90A00952268 /* So30.swift in Sources */,
+				A4DD706028CE2AD300AD4369 /* So56.swift in Sources */,
 				A44F656B28C9860A00B88E75 /* So46.swift in Sources */,
 				A43A119128C89BE70011A530 /* So24.swift in Sources */,
 				A43A119828C89BE70011A530 /* So6.swift in Sources */,
+				A4F7F83628CCD64F00A7CE2A /* So38.swift in Sources */,
 				A43A119628C89BE70011A530 /* So26.swift in Sources */,
 				A43A118B28C89BE70011A530 /* So48.swift in Sources */,
 				A44F656D28C99F1C00B88E75 /* So58.swift in Sources */,
+				A4DD705E28CE1EB400AD4369 /* So35.swift in Sources */,
 				A43A118D28C89BE70011A530 /* So9.swift in Sources */,
+				A4F7F83428CC891600A7CE2A /* So66.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
