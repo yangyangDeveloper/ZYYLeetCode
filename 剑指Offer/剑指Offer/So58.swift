@@ -72,6 +72,7 @@ class So58 {
             j = i
         }
          
+        
         res = res.trimmingCharacters(in: .whitespaces)
         return res
     }
