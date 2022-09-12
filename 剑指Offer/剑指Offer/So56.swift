@@ -24,7 +24,7 @@ class So56 {
      
     */
     
-
+    
     func singleNumbers(_ nums: [Int]) -> [Int] {
         // 先用 ^(异或) 算出来 两个出现一次的数字的异或值
         // 1 4 4 6   循环异或 最后是 1和6的异或结果
@@ -74,6 +74,25 @@ class So56 {
         
         return [a, b]
 
+    }
+    
+    func singleNumber(_ nums: [Int]) -> Int {
+        var res = nums
+        if nums.count == 0 {
+            return -1
+        }
+        
+        var arr = res.sorted()
+
+        var i = 0
+        while i < arr.count {
+            if arr[i] == arr[i + 1] {
+                i += 3
+            } else {
+                return arr[i]
+            }
+        }
+        return -1
     }
     
 }

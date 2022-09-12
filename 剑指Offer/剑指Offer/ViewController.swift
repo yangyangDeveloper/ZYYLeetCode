@@ -70,14 +70,22 @@ class ViewController: UIViewController {
         
        // print(someProtocol.keys)
         
-        test56()
+        //test56()
         
+        //test13()
+        //test45()
+        test67()
     }
 
     func test56() {
         let nums = [3,4,4,5]
         let t = So56().singleNumbers(nums)
         
+    }
+    func test13() {
+        let m = 2, n = 2
+        let t = So13().movingCount2(m, n)
+      
     }
     
     func test58() {
@@ -88,13 +96,23 @@ class ViewController: UIViewController {
         print(res)
     }
     
-    func test15() {
-        let n = 11
-        let t  = So15().hammingWeight(n)
+    func test45() {
+        let n = [3,30,34,5,9]
+        // 快排之前转化为str  ["3" "30" "34" "5" "9]
+        // 快排之后应该是 ["30" "3" "34" "5" "9"] 才是最小的
+        let res = So45().minNumber(n)
         
     }
     
-    func test68() {
+    
+    func test15() {
+        let n = 11
+        let t  = So15().hammingWeight(n)
+     
+        
+    }
+    
+    func test66() {
         let n = [1,2,3,4,5]
         let t = So66().constructArr(n)
         
@@ -103,6 +121,12 @@ class ViewController: UIViewController {
     func test38() {
         let s = "abb"
         let arr = So38().permutation(s)
+        
+    }
+    
+    func test67() {
+        let s = "2147483648"
+        let t = So67().strToInt(s)
         
     }
 
